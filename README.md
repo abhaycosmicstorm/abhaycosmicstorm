@@ -65,7 +65,7 @@ https://github.com/abhaycosmicstorm/pneumonia-detection-ai
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Abhayraj_Codes?ext=contest)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma)
+
 
 I actively practice **Data Structures and Algorithms** to improve problem-solving skills.
 ---
