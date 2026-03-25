@@ -61,6 +61,13 @@ https://github.com/abhaycosmicstorm/pneumonia-detection-ai
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaycosmicstorm&layout=compact)
 
+## 🧠 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Abhayraj_Codes)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma)
+
+I actively practice **Data Structures and Algorithms** to improve problem-solving skills.
 ---
 
 ## 📫 Connect with me
