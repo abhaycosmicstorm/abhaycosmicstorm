@@ -63,7 +63,7 @@ https://github.com/abhaycosmicstorm/pneumonia-detection-ai
 
 ## 🧠 Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Abhayraj_Codes)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Abhayraj_Codes?ext=contest)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma)
 
